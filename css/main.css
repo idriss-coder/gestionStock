@@ -1,0 +1,17 @@
+#addcard{
+	background-color: #0262ac;
+	padding: 4px;
+	width: 10px;
+	height: 6px;
+	border-radius: 4px;
+	text-align: center;
+	color: white;
+	font-weight: 400;
+	font-size: "Inter";
+	vertical-align: middle;
+	cursor: pointer;
+}
+#addcard:hover{
+	background-color: #1410f9;
+	padding-top: 5px;
+}

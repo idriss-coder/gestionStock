@@ -1,0 +1,43 @@
+<RCC>
+  <qresource prefix="im">
+    <file>imgs/icon.png</file>
+    <file>imgs/icon.ico</file>
+    <file>imgs/3643782_bell_dot_notification_notify_ring_icon.png</file>
+    <file>imgs/stat.png</file>
+    <file>imgs/3693624.png</file>
+    <file>imgs/2909542.png</file>
+    <file>imgs/3643769_building_home_house_main_menu_icon - Copy.png</file>
+    <file>imgs/st.png</file>
+    <file>imgs/3329671.png</file>
+    <file>imgs/1087064.png</file>
+    <file>imgs/968402.png</file>
+    <file>imgs/tl.png</file>
+    <file>imgs/cld.png</file>
+    <file>imgs/7612880.png</file>
+    <file>imgs/1916585.png</file>
+    <file>imgs/3665628.png</file>
+    <file>imgs/5072753.png</file>
+    <file>imgs/5072752.png</file>
+    <file>imgs/5678831.png</file>
+    <file>imgs/panier.png</file>
+    <file>imgs/add.png</file>
+    <file>imgs/736885.png</file>
+    <file>imgs/477194.png</file>
+    <file>imgs/5072766 (1).png</file>
+    <file>imgs/dl.png</file>
+    <file>imgs/6285178.png</file>
+    <file>imgs/5024083.png</file>
+    <file>imgs/732672.png</file>
+    <file>imgs/3030866.png</file>
+    <file>imgs/setting.png</file>
+    <file>imgs/users.png</file>
+    <file>imgs/848042.png</file>
+    <file>imgs/7759350.png</file>
+    <file>imgs/4177585_gift_sale_shop_icon.png</file>
+    <file>imgs/panier2.png</file>
+    <file>imgs/us.png</file>
+    <file>imgs/data.webp</file>
+    <file>imgs/cog.png</file>
+    <file>imgs/send.png</file>
+  </qresource>
+</RCC>
